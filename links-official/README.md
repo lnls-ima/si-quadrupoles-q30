@@ -1,4 +1,4 @@
-Sirius Q14 Quadrupole
+Sirius Q30 Quadrupole
 =====================
 
 current official model version : model-06
