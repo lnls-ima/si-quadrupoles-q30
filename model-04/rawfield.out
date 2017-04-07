@@ -1,0 +1,14 @@
+--- fieldmap ---
+timestamp:                          2015-02-13_16-29-05
+filename:                           Quadrupolo_Anel_QL_Modelo 4_-12_12mm_-500_500mm.txt
+magnet_label:                       QL
+magnet_length:                      300.0 mm
+main_coil_current:                  155 A
+magnetic_gap:                       28.0 mm
+control_gap:                        None mm
+ry_grid:                            1 point in [0.0,0.0] mm (step of 0.000000 mm)
+rx_grid:                            49 points in [-12.0,12.0] mm (step of 0.500000 mm)
+rz_grid:                            1001 points in [-500.0,500.0] mm (step of 1.000000 mm)
+by@(all)(axis):                     (min:-0.56578 max:+0.56578) (min:-0.00000 max:+0.00000) Tesla
+bx@(all)(axis):                     (min:-0.00000 max:+0.00000) (min:-0.00000 max:+0.00000) Tesla
+bz@(all)(axis):                     (min:-0.00000 max:+0.00000) (min:-0.00000 max:+0.00000) Tesla

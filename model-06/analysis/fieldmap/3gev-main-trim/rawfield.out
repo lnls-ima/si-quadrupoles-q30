@@ -1,0 +1,17 @@
+--- fieldmap ---
+timestamp:                          2017-02-24_08-55-02
+filename:                           2017-02-24_Q30_Model06_Sim_X=-14_14mm_Z=-500_500mm_Imc=153.8A_Itc=10A.txt
+magnet_label:                       Q30
+magnet_length:                      289.0 mm
+main_coil_current:                  153.8 A
+main_coil_NI:                       3575.85 A
+trim_coil_current:                  10 A
+trim_coil_NI:                       180.0 A
+magnetic_gap:                       28.0 mm
+control_gap:                        None mm
+ry_grid:                            1 point in [0.0,0.0] mm (step of 0.000000 mm)
+rx_grid:                            57 points in [-14.0,14.0] mm (step of 0.500000 mm)
+rz_grid:                            1001 points in [-500.0,500.0] mm (step of 1.000000 mm)
+by@(all)(axis):                     (min:-0.66549 max:+0.66549) (min:-0.00000 max:+0.00000) Tesla
+bx@(all)(axis):                     (min:-0.00000 max:+0.00000) (min:-0.00000 max:+0.00000) Tesla
+bz@(all)(axis):                     (min:-0.00000 max:+0.00000) (min:-0.00000 max:+0.00000) Tesla
