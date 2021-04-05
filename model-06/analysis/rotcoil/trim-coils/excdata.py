@@ -292,7 +292,7 @@ def excdata_print(fam, fnames, exclude_harms, label, main_harmonic, sextupoles=F
             print('{} '.format(h), end='')
     print()
     print('# main_harmonic     {}'.format(main_harmonic))
-    print('# rescaling factor  1.0')
+    print('# rescaling_factor  1.0')
     print('# units             Ampere  ', end='')
     for h in harmonics:
         if h not in exclude_harms:
